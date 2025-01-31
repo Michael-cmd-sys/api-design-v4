@@ -4,7 +4,8 @@
   "description": "Implementing a simple end to end api. Credits to Frontend masters",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "",
+    "dev:local": "ts-node index.ts"
   },
   "repository": {
     "type": "git",
